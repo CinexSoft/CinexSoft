@@ -1,4 +1,4 @@
-- 👋 Hi, this is @CinexSoft
+- 👋 Hi, this is [@CinexSoft](https://github.com/CinexSoft)
 - 👀 Our interests lay in almost everything
 - 📫 Contact us at cinexsoft@gmail.com
 
